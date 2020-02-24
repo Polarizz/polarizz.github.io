@@ -1,0 +1,12 @@
+Origin: Polarizz's Enclosure
+Label: Polarizz's Enclosure
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: ._. very flat~
+
+SHA256:
+ b2b5d0fe7a19d51ebbd475d6bb827e1097bfd22b902609a3b86faf348c9dc262 770 Packages.bz2
+ 51d5808e94817186a5f00a037119fb8441b8b4ad30851dc9b1f3dcbdaec8d3ad 688 Packages.xz
